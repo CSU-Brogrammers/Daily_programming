@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+#A game of threes implementation by Austin Smitherman
 def threes(num):
     while num != 1:
         print(num)
